@@ -19,7 +19,7 @@ adapters. It has specific support for configuring the National
 Semiconductor AT/LANTIC DP83905 used in on ISA Ethernet adapters such
 as the NE2000plus. It also works several work-alike chips from other
 vendors.
-				
+
 %description -l pl
 Ten pakiet zawiera program konfiguracyjny i diagnostyczny do kart
 sieciowych ISA NE2000. Zosta³ napisany dla kart na uk³adzie National
