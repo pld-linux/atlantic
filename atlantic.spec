@@ -7,6 +7,7 @@ Release:	1
 License:	GPL
 Group:		Networking/Utilities
 Source0:	ftp://ftp.scyld.com/pub/diag/atlantic.c
+# Source0-md5:	56e307f86a7d3a428d599b6ad1598609
 URL:		http://www.scyld.com/diag/atlantic.html
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
