@@ -1,5 +1,5 @@
 Summary:	Setup and diagnostic program for ISA NE2000 Ethernet adapters
-Summary(pl):	Program konfiguracyjny i diagnostyczny do kart sieciowych ISA NE2000
+Summary(pl.UTF-8):   Program konfiguracyjny i diagnostyczny do kart sieciowych ISA NE2000
 Name:		atlantic
 # note: version taken from CVS rev.
 Version:	1.7
@@ -20,12 +20,12 @@ Semiconductor AT/LANTIC DP83905 used in on ISA Ethernet adapters such
 as the NE2000plus. It also works several work-alike chips from other
 vendors.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet zawiera program konfiguracyjny i diagnostyczny do kart
-sieciowych ISA NE2000. Zosta≥ napisany dla kart na uk≥adzie National
-Semiconductor AT/LANTIC DP83905, uøytym do kart sieciowych ISA takich
-jak NE2000plus. Dzia≥a teø z niektÛrymi podobnie zachowuj±cymi siÍ
-uk≥adami innych producentÛw.
+sieciowych ISA NE2000. Zosta≈Ç napisany dla kart na uk≈Çadzie National
+Semiconductor AT/LANTIC DP83905, u≈ºytym do kart sieciowych ISA takich
+jak NE2000plus. Dzia≈Ça te≈º z niekt√≥rymi podobnie zachowujƒÖcymi siƒô
+uk≈Çadami innych producent√≥w.
 
 %prep
 %setup -q -c -T
