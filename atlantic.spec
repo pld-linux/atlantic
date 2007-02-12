@@ -1,5 +1,5 @@
 Summary:	Setup and diagnostic program for ISA NE2000 Ethernet adapters
-Summary(pl.UTF-8):   Program konfiguracyjny i diagnostyczny do kart sieciowych ISA NE2000
+Summary(pl.UTF-8):	Program konfiguracyjny i diagnostyczny do kart sieciowych ISA NE2000
 Name:		atlantic
 # note: version taken from CVS rev.
 Version:	1.7
